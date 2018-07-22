@@ -1,10 +1,11 @@
-# Four In a Row Game
+# Connect Four Game
 
 #### also known as:
 * Connect Four
 * Captain's Mistress
 * Four Up, Plot Four
 * Find Four
+* Four in a Row
 * Four in a Line
 * Gravitrips (in Soviet Union)
 
